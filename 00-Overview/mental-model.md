@@ -3,15 +3,15 @@ folder: 00-Overview
 type: overview
 title: ذهنیت کامل پروژه (نسخه گسترش‌یافته v2)
 created: 2026-09-15
-last_updated: 1405-06-24
-status: review
+last_updated: 1405-06-25
+status: done
 tags: [mental-model, scope-v2, MOC]
 related: ["[[project-overview]]", "[[data-sources]]", "[[conventions]]", "[[_MOC]]"]
 ---
 
 # 🧭 ذهنیت کامل پروژه (نسخه گسترش‌یافته v2)
 
-> این سند «تصویر بزرگ» پروژه است — روایت کامل ذهنیت کارفرما که در جلسه ۱۴۰۵-۰۶-۲۴ تشریح و توسط research-agent ساختاربندی شد. همه ماژول‌ها، منابع، خروجی‌ها و فازهای اجرا از اینجا منشعب می‌شوند. وضعیت: `review` — پس از تأیید نهایی کارفرما به `done` تغییر می‌کند و مرجع بازنویسی scope در R1 است (Decision-004).
+> این سند «تصویر بزرگ» پروژه است — روایت کامل ذهنیت کارفرما که در جلسه ۱۴۰۵-۰۶-۲۴ تشریح و توسط research-agent ساختاربندی شد. وضعیت: `done` — دستور «R1» کارفرما (۱۴۰۵-۰۶-۲۵) اجرای پروژه با فرض‌های تفسیری بخش ۱۱ را تأیید کرد (Pending-003 در decisions.md؛ اصلاح بعدی ممکن است). مصوبات اجرایی: Decision-005.
 >
 > [[project-overview]] · [[data-sources]] · [[conventions]] · [/01-Tasks/_MOC](../01-Tasks/_MOC.md) · [/07-Exports/_MOC](../07-Exports/_MOC.md) · [[obsidian-setup]] · [[dashboard]]
 

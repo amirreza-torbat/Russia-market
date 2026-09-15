@@ -1,0 +1,239 @@
+iso3,m49,iso2,name_en,name_fa,role
+AFG,4,AF,Afghanistan,افغانستان,other
+ALB,8,AL,Albania,,other
+DZA,12,DZ,Algeria,,other
+ASM,16,AS,American Samoa,,other
+AND,20,AD,Andorra,,other
+AGO,24,AO,Angola,,other
+ATG,28,AG,Antigua and Barbuda,,other
+AZE,31,AZ,Azerbaijan,جمهوری آذربایجان,other
+ARG,32,AR,Argentina,آرژانتین,other
+AUS,36,AU,Australia,استرالیا,other
+AUT,40,AT,Austria,اتریش,other
+BHS,44,BS,Bahamas,,other
+BHR,48,BH,Bahrain,بحرین,other
+BGD,50,BD,Bangladesh,بنگلادش,other
+ARM,51,AM,Armenia,ارمنستان,other
+BRB,52,BB,Barbados,,other
+BEL,56,BE,Belgium,بلژیک,other
+BEL,58,BE,Belgium-Luxembourg (...1998),بلژیک,other
+BMU,60,BM,Bermuda,,other
+BTN,64,BT,Bhutan,,other
+BOL,68,BO,Bolivia (Plurinational State of),,other
+BIH,70,BA,Bosnia Herzegovina,,other
+BWA,72,BW,Botswana,,other
+BRA,76,BR,Brazil,برزیل,other
+BLZ,84,BZ,Belize,,other
+IOT,86,IO,Br. Indian Ocean Terr.,,other
+SLB,90,SB,Solomon Isds,,other
+VGB,92,VG,Br. Virgin Isds,,other
+BRN,96,BN,Brunei Darussalam,,other
+BGR,100,BG,Bulgaria,بلغارستان,other
+MMR,104,MM,Myanmar,,other
+BDI,108,BI,Burundi,,other
+BLR,112,BY,Belarus,بلاروس,comparator
+KHM,116,KH,Cambodia,,other
+CMR,120,CM,Cameroon,,other
+CAN,124,CA,Canada,کانادا,other
+CPV,132,CV,Cabo Verde,,other
+CYM,136,KY,Cayman Isds,,other
+CAF,140,CF,Central African Rep.,,other
+LKA,144,LK,Sri Lanka,سری‌لانکا,other
+TCD,148,TD,Chad,,other
+CHL,152,CL,Chile,شیلی,other
+CHN,156,CN,China,چین,comparator
+CXR,162,CX,Christmas Isds,,other
+CCK,166,CC,Cocos Isds,,other
+COL,170,CO,Colombia,کلمبیا,other
+COM,174,KM,Comoros,,other
+MYT,175,YT,Mayotte (Overseas France),,other
+COG,178,CG,Congo,,other
+COD,180,CD,Dem. Rep. of the Congo,,other
+COK,184,CK,Cook Isds,,other
+CRI,188,CR,Costa Rica,,other
+HRV,191,HR,Croatia,,other
+CUB,192,CU,Cuba,,other
+CYP,196,CY,Cyprus,قبرس,other
+CSK,200,CS,Czechoslovakia (...1992),,other
+CZE,203,CZ,Czechia,چک,other
+BEN,204,BJ,Benin,,other
+DNK,208,DK,Denmark,دانمارک,other
+DMA,212,DM,Dominica,,other
+DOM,214,DO,Dominican Rep.,,other
+ECU,218,EC,Ecuador,اکوادور,other
+SLV,222,SV,El Salvador,,other
+GNQ,226,GQ,Equatorial Guinea,,other
+ETH,231,ET,Ethiopia,اتیوپی,other
+ERI,232,ER,Eritrea,,other
+EST,233,EE,Estonia,استونی,other
+FLK,238,FK,Falkland Isds (Malvinas),,other
+FJI,242,FJ,Fiji,,other
+FIN,246,FI,Finland,فنلاند,other
+FRA,251,FR,France,فرانسه,other
+PYF,258,PF,French Polynesia,,other
+ATF,260,TF,Fr. South Antarctic Terr.,,other
+DJI,262,DJ,Djibouti,,other
+GAB,266,GA,Gabon,,other
+GEO,268,GE,Georgia,گرجستان,other
+GMB,270,GM,Gambia,,other
+PSE,275,PS,State of Palestine,,other
+DEU,276,DE,Germany,آلمان,other
+DDR,278,DD,Dem. Rep. of Germany (...1990),,other
+DEU,280,DE,Fed. Rep. of Germany (...1990),آلمان,other
+GHA,288,GH,Ghana,,other
+GIB,292,GI,Gibraltar,,other
+KIR,296,KI,Kiribati,,other
+GRC,300,GR,Greece,یونان,other
+GRL,304,GL,Greenland,,other
+GRD,308,GD,Grenada,,other
+GUM,316,GU,Guam,,other
+GTM,320,GT,Guatemala,,other
+GIN,324,GN,Guinea,,other
+GUY,328,GY,Guyana,,other
+HTI,332,HT,Haiti,,other
+HND,340,HN,Honduras,,other
+HKG,344,HK,"China, Hong Kong SAR",هنگ‌کنگ,other
+HUN,348,HU,Hungary,مجارستان,other
+ISL,352,IS,Iceland,ایسلند,other
+IDN,360,ID,Indonesia,اندونزی,other
+IRN,364,IR,Iran,ایران,core
+IRQ,368,IQ,Iraq,عراق,other
+IRL,372,IE,Ireland,ایرلند,other
+ISR,376,IL,Israel,اسرائیل,other
+ITA,380,IT,Italy,ایتالیا,other
+CIV,384,CI,CÃ´te d'Ivoire,,other
+JAM,388,JM,Jamaica,,other
+JPN,392,JP,Japan,ژاپن,other
+KAZ,398,KZ,Kazakhstan,قزاقستان,other
+JOR,400,JO,Jordan,اردن,other
+KEN,404,KE,Kenya,کنیا,other
+PRK,408,KP,Dem. People's Rep. of Korea,,other
+KOR,410,KR,Rep. of Korea,کره جنوبی,other
+KWT,414,KW,Kuwait,کویت,other
+KGZ,417,KG,Kyrgyzstan,قرقیزستان,other
+LAO,418,LA,Lao People's Dem. Rep.,,other
+LBN,422,LB,Lebanon,لبنان,other
+LSO,426,LS,Lesotho,,other
+LVA,428,LV,Latvia,لتونی,other
+LBR,430,LR,Liberia,,other
+LBY,434,LY,Libya,,other
+LTU,440,LT,Lithuania,لیتوانی,other
+LUX,442,LU,Luxembourg,,other
+MAC,446,MO,"China, Macao SAR",,other
+MDG,450,MG,Madagascar,,other
+MWI,454,MW,Malawi,,other
+MYS,458,MY,Malaysia,مالزی,other
+MDV,462,MV,Maldives,,other
+MLI,466,ML,Mali,,other
+MLT,470,MT,Malta,مالت,other
+MRT,478,MR,Mauritania,,other
+MUS,480,MU,Mauritius,,other
+MEX,484,MX,Mexico,مکزیک,other
+S19,490,,"Other Asia, nes",,other
+MNG,496,MN,Mongolia,,other
+MDA,498,MD,Rep. of Moldova,مولداوی,other
+MNE,499,ME,Montenegro,,other
+MSR,500,MS,Montserrat,,other
+MAR,504,MA,Morocco,مراکش,other
+MOZ,508,MZ,Mozambique,,other
+OMN,512,OM,Oman,عمان,other
+NAM,516,,Namibia,,other
+NRU,520,NR,Nauru,,other
+NPL,524,NP,Nepal,نپال,other
+NLD,528,NL,Netherlands,هلند,other
+ANT,530,AN,Netherlands Antilles (...2010),,other
+CUW,531,CW,CuraÃ§ao,,other
+ABW,533,AW,Aruba,,other
+SXM,534,SX,Saint Maarten,,other
+BES,535,BQ,Bonaire,,other
+NCL,540,NC,New Caledonia,,other
+VUT,548,VU,Vanuatu,,other
+NZL,554,NZ,New Zealand,نیوزیلند,other
+NIC,558,NI,Nicaragua,,other
+NER,562,NE,Niger,,other
+NGA,566,NG,Nigeria,نیجریه,other
+NIU,570,NU,Niue,,other
+NFK,574,NF,Norfolk Isds,,other
+NOR,579,NO,Norway,نروژ,other
+MNP,580,MP,N. Mariana Isds,,other
+FSM,583,FM,FS Micronesia,,other
+MHL,584,MH,Marshall Isds,,other
+PLW,585,PW,Palau,,other
+PAK,586,PK,Pakistan,پاکستان,other
+PAN,591,PA,Panama,,other
+PNG,598,PG,Papua New Guinea,,other
+PRY,600,PY,Paraguay,,other
+PER,604,PE,Peru,پرو,other
+PHL,608,PH,Philippines,,other
+PCN,612,PN,Pitcairn,,other
+POL,616,PL,Poland,لهستان,other
+PRT,620,PT,Portugal,پرتغال,other
+GNB,624,GW,Guinea-Bissau,,other
+TLS,626,TL,Timor-Leste,,other
+QAT,634,QA,Qatar,قطر,other
+ROU,642,RO,Romania,رومانی,other
+RUS,643,RU,Russian Federation,روسیه,core
+RWA,646,RW,Rwanda,,other
+BLM,652,BL,Saint BarthÃ©lemy,,other
+SHN,654,SH,Saint Helena,,other
+KNA,659,KN,Saint Kitts and Nevis,,other
+AIA,660,AI,Anguilla,,other
+LCA,662,LC,Saint Lucia,,other
+SPM,666,PM,Saint Pierre and Miquelon,,other
+VCT,670,VC,Saint Vincent and the Grenadines,,other
+SMR,674,SM,San Marino,,other
+STP,678,ST,Sao Tome and Principe,,other
+SAU,682,SA,Saudi Arabia,عربستان سعودی,other
+SEN,686,SN,Senegal,,other
+SRB,688,RS,Serbia,صربستان,other
+SYC,690,SC,Seychelles,,other
+SLE,694,SL,Sierra Leone,,other
+R20,697,,"Europe EFTA, nes",,other
+IND,699,IN,India,هند,comparator
+SGP,702,SG,Singapore,سنگاپور,other
+SVK,703,SK,Slovakia,اسلواکی,other
+VNM,704,VN,Viet Nam,ویتنام,other
+SVN,705,SI,Slovenia,,other
+SOM,706,SO,Somalia,,other
+ZAF,710,ZA,South Africa,آفریقای جنوبی,other
+ZA1,711,,Southern African Customs Union (...1999),,other
+ZWE,716,ZW,Zimbabwe,,other
+ESP,724,ES,Spain,اسپانیا,other
+SSD,728,SS,South Sudan,,other
+SDN,729,SD,Sudan,,other
+SDN,736,SD,Sudan (...2011),,other
+SUR,740,SR,Suriname,,other
+SWZ,748,SZ,Eswatini,,other
+SWE,752,SE,Sweden,سوئد,other
+CHE,757,CH,Switzerland,سوئیس,other
+SYR,760,SY,Syria,سوریه,other
+TJK,762,TJ,Tajikistan,تاجیکستان,other
+THA,764,TH,Thailand,تایلند,other
+TGO,768,TG,Togo,,other
+TKL,772,TK,Tokelau,,other
+TON,776,TO,Tonga,,other
+TTO,780,TT,Trinidad and Tobago,,other
+ARE,784,AE,United Arab Emirates,امارات متحده عربی,other
+TUN,788,TN,Tunisia,تونس,other
+TUR,792,TR,TÃ¼rkiye,ترکیه,comparator
+TKM,795,TM,Turkmenistan,ترکمنستان,other
+TCA,796,TC,Turks and Caicos Isds,,other
+TUV,798,TV,Tuvalu,,other
+UGA,800,UG,Uganda,,other
+UKR,804,UA,Ukraine,اوکراین,other
+MKD,807,MK,North Macedonia,,other
+SUN,810,SU,USSR (...1990),,other
+EGY,818,EG,Egypt,مصر,other
+GBR,826,GB,United Kingdom,بریتانیا,other
+TZA,834,TZ,United Rep. of Tanzania,,other
+USA,842,US,USA,ایالات متحده,other
+PUS,849,PU,US Misc. Pacific Isds,,other
+BFA,854,BF,Burkina Faso,,other
+URY,858,UY,Uruguay,,other
+UZB,860,UZ,Uzbekistan,ازبکستان,other
+VEN,862,VE,Venezuela,,other
+WLF,876,WF,Wallis and Futuna Isds,,other
+WSM,882,WS,Samoa,,other
+YEM,887,YE,Yemen,یمن,other
+SCG,891,CS,Serbia and Montenegro (...2005),,other
+ZMB,894,ZM,Zambia,,other

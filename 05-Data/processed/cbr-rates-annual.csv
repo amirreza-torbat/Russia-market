@@ -1,0 +1,7 @@
+year,usd_rub_avg,days_counted,period,source,snapshot_date
+2021,73.6654,198,full,CBR official rate via cbr-xml-daily.ru mirror,20260915
+2022,68.1790,196,full,CBR official rate via cbr-xml-daily.ru mirror,20260915
+2023,85.8155,197,full,CBR official rate via cbr-xml-daily.ru mirror,20260915
+2024,92.5771,197,full,CBR official rate via cbr-xml-daily.ru mirror,20260915
+2025,83.1750,198,full,CBR official rate via cbr-xml-daily.ru mirror,20260915
+2026,77.9127,138,ytd,CBR official rate via cbr-xml-daily.ru mirror,20260915
