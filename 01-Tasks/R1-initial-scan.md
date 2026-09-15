@@ -15,6 +15,8 @@ estimated_effort: 1-2 session
 # R1 — اسکن اولیه (نهایی‌سازی conventions + دانلود داده پایه)
 
 > ✅ **موضوع و پارامترها مصوب شد (۱۴۰۵-۰۶-۲۴)**: فرصت صادرات ایران→روسیه + پارامترهای ۷گانه (Decision-002/003 در `04-State/decisions.md`). این تسک مصوبات را عملیاتی می‌کند.
+>
+> 🆕 **Scope v2 (Decision-004)**: بازه 2021–2025 + YTD تا ماه ۹ ۲۰۲۶؛ ماژول‌های M1–M8 ([[mental-model]])؛ خروجی ۵ ورک‌بوک Excel + Vault (Canvas/داشبورد). پرچم‌های جدید schema برای افزودن در R1: `war_opportunity`، `unfriendly_surcharge_advantage`، `import_dependence`، `partial_year`.
 
 ## 🎯 هدف
 تبدیل اسکلت bootstrap به سند مصوب عملیاتی: ثبت موضوع تحلیل، نهایی‌سازی پارامترهای TBD در `conventions.md`، مصوبه منابع، و دانلود/بازتولید داده پایه.

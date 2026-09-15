@@ -15,6 +15,8 @@ estimated_effort: 1 session
 # R2 — اعتبارسنجی داده و Mirror Reconciliation
 
 > ⚠️ **Placeholder (draft)** — نهایی‌سازی پس از R1.
+>
+> 🆕 **Scope v2**: reconciliation اکنون شامل YTD-2026 (IRICA + انتشارهای ماهانه شرکا با annualization و پرچم `partial_year`) و اعتبارسنجی متقاطع سهم رقبا (CHN/TUR/IND/BLR) است ([[mental-model]] M1/M2).
 
 ## 🎯 هدف
 تضمین کیفیت داده mirror و داده رسمی قبل از تحلیل: اعتبارسنجی متقابل، تنظیم CIF→FOB، و تولید Parquet پردازش‌شده با دقت Decimal.

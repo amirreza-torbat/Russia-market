@@ -9,6 +9,8 @@ status: draft
 # 🗺️ MOC تسک‌ها (Tasks Map of Content)
 
 > ⚠️ **این تسک‌ها placeholder هستند (status: draft)** — پس از پاسخ کاربر به سؤالات bootstrap، در `R1` با موضوع مصوب نهایی/بازطراحی می‌شوند و در `04-State/decisions.md` ثبت خواهند شد. قرارداد شناسه: `R#-task-slug.md`؛ انواع: `scan / validate / analyze / compile / review`.
+>
+> 🆕 **نگاشت Scope v2 (Decision-004 — [[mental-model]] بخش ۸)**: `R1` = آماده‌سازی همه ماژول‌ها + داده پایه · `R2` = M1/M2 (اعتبارسنجی + YTD-2026) · `R3` = M1/M2/M3/M7 (تقاضا + ظرفیت ایران + رقابت + امتیاز) · `R4` = M4/M5 (ماتریس دسترسی) + تدوین · `R5` = M6/M8 (حاشیه سود + نقشه راه) + QA/closure. خروجی‌های Excel: [/07-Exports/_MOC](../07-Exports/_MOC.md).
 
 ## نمودار وابستگی (پیش‌نویس)
 

@@ -15,6 +15,8 @@ estimated_effort: 0.5-1 session
 # R5 — بازبینی نهایی، QA و انتشار (Closure + Release)
 
 > ⚠️ **Placeholder (draft)** — نهایی‌سازی پس از R4.
+>
+> 🆕 **Scope v2**: R5 علاوه بر QA/closure، حاشیه سود (M6: ماشین‌حساب landed cost) و نقشه راه ورود (M8: تقویم ۱۲ ماهه) را تولید می‌کند → خروجی `05-margin-roadmap.xlsx` ([[mental-model]] بخش ۸).
 
 ## 🎯 هدف
 اجرای QA نهایی کل حلقه، تکمیل placeholderهای State، و انتشار نسخه نهایی (release tag) مطابق الگوی task-06/09 مرجع.

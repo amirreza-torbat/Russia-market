@@ -2,7 +2,7 @@
 
 > **مخزن Obsidian Vault** برای پروژه تحقیقاتی «بازار روسیه». این مخزن با الگوبرداری کامل از پروژه مرجع [`Market-Research`](https://github.com/amirreza-torbat/Market-Research) (تحلیل صادرات ایران) ساخته شده است.
 >
-> ✅ **وضعیت فعلی: READY-FOR-R1** — موضوع تحلیل توسط کاربر مصوب شد: **جستجوی فرصت صادرات ایران→روسیه** (Decision-002) با پارامترهای مصوب (Decision-003: بازه 2021–2025، HS6 کامل، BAC-mirror، مقایسه رقبا، وزن‌های پیش‌فرض، خروجی Obsidian، Top 100). گام بعدی: `R1` برای عملیاتی‌سازی مصوبات و دانلود داده پایه.
+> ✅ **وضعیت فعلی: READY-FOR-R1** — موضوع تحلیل توسط کاربر مصوب شد: **جستجوی فرصت صادرات ایران→روسیه** (Decision-002) با پارامترهای مصوب (Decision-003: بازه 2021–2025، HS6 کامل، BAC-mirror، مقایسه رقبا، وزن‌های پیش‌فرض، خروجی Obsidian، Top 100). **Scope v2 (Decision-004)**: گسترش به چرخه کامل ورود به بازار — ماژول‌های M1–M8 ([[00-Overview/mental-model.md]])، بازه تا ماه ۹ ۲۰۲۶، خروجی ۵ ورک‌بوک Excel + Vault با Canvas/داشبورد/پلاگین‌ها. گام بعدی: `R1` برای عملیاتی‌سازی مصوبات و دانلود داده پایه.
 
 ---
 
@@ -17,9 +17,11 @@
 | [`04-State/`](04-State/) | STATUS، progress، issues، decisions، closure، QA | همه |
 | [`05-Data/`](05-Data/) | داده خام / interim / processed (raw در .gitignore) | Data/Analyst |
 | [`_templates/`](_templates/) | قالب تسک و یادداشت | همه |
+| [`07-Exports/`](07-Exports/) | برنامه و خروجی ۵ ورک‌بوک Excel (Scope v2) | همه |
+| `project-flow.canvas` (ریشه) | نقشه گرافیکی پروژه (Canvas داخلی Obsidian) | همه |
 | [`scripts/`](scripts/) | اسکریپت‌های پایتون تکرارپذیر | Data/Analyst |
 
-پوشه‌های `06-Analysis/` و `07-Exports/` مطابق قرارداد در زمان اجرا (R4) ساخته می‌شوند — هم‌سو با الگوی مرجع.
+پوشه `06-Analysis/` در زمان اجرا (R3) ساخته می‌شود؛ `07-Exports/` برای برنامه ۵ ورک‌بوک Excel (Scope v2 — Decision-004) هم‌اکنون موجود است.
 
 ---
 
